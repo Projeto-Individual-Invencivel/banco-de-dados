@@ -174,7 +174,7 @@ INSERT INTO tb_pergunta VALUES
 	(7, 1, 'Quem é inicialmente desconfiado das motivações de Robot após descobrir seu verdadeiro nome e história?', 'Mark Grayson'),
 	(8, 1, 'Quem é o principal aliado de Debbie Grayson após a revelação da missão de Nolan Grayson?', 'Cecil Stedman'),
 	(9, 2, 'Qual é o principal poder de Mark Grayson?', 'Super força e voo'),
-	(10, 2, 'Qual destas NÃO é uma das habilidadades de Omni-Man?', 'Manipulação do tempo'),
+	(10, 2, 'Qual destas é uma das habilidadades de Omni-Man?', 'Super força e voo'),
 	(11, 2, 'Qual é a principal habilidade de Eve Atômica?', 'Manipulação de matéria'),
 	(12, 2, 'Qual é o poder principal de Dupli-Kate?', 'Criação de clones'),
 	(13, 2, 'Rex Splode possui um poder que o diferencia dos outros heróis. Qual é esse poder?', 'Objetos explosivos'),
